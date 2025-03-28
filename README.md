@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://filamentphp.com">
-    <img src="https://raw.githubusercontent.com/filamentphp/filament/2.x/art/banner.jpg" width="400" alt="Filament Logo">
+    <img src="https://backend.global-inovasi.com/storage/tb_news/01J4TYXBRT9FYKKKPTXFVSQE3T.png" width="400" alt="Filament Logo">
   </a>
 </p>
 
 <p align="center">
   <a href="https://spatie.be">
-    <img src="https://raw.githubusercontent.com/spatie/.github/main/docs/images/spatie.jpg" width="400" alt="Spatie Logo">
+    <img src="https://candokendo.wordpress.com/wp-content/uploads/2020/09/laravel-spatie.png" width="400" alt="Spatie Logo">
   </a>
 </p>
 
